@@ -40,7 +40,7 @@ def createFile(inlist, listname): #creates a .txt file from a list, given said l
         outfile.write(x + "\n")
     print "%s files in " %len(inlist) + listname
 
-def test ():
+def test (): #personal test code. Runs mediasort in directory of list.py, and creates text files. Will be removed eventually.
     mediaSort(os.getcwd(), 0)
     createFile(picture, "pictures.txt")
     createFile(video, "videos.txt")
