@@ -1,2 +1,11 @@
 #no media files
-*.[png|jpg|gif|mov|ogv|wmv|mp3|wav|ogg|txt]
+*.png
+*.jpg
+*.gif
+*.mov
+*.ogv
+*.wmv
+*.mp3
+*.wav
+*.ogg
+*.txt
